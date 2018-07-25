@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  employee: one
+  name: MyString
+  pay_period: MyString
+  gross_income: 1
+  income_tax: 1
+  net_income: 1
+  pension: 1
+
+two:
+  employee: two
+  name: MyString
+  pay_period: MyString
+  gross_income: 1
+  income_tax: 1
+  net_income: 1
+  pension: 1

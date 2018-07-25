@@ -1,0 +1,1 @@
+bin/rails server --port 4000 -b 0.0.0.0

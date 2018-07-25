@@ -1,0 +1,3 @@
+$('form').hide();
+$('.my-employees').append('<%= j render partial: "employee", locals: {employee: @employee} %>');
+$('.new-employee-button').show();
